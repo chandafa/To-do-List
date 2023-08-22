@@ -50,7 +50,7 @@ input {
 button {
   border: none;
   outline: none;
-  padding: 16px 50px;
+  padding: 16px 40px;
   background: #ff5945;
   color: #fff;
   font-size: 16px;
@@ -66,10 +66,11 @@ button:hover {
 ul li {
   list-style: none;
   font-size: 17px;
-  padding: 12px 8px 12px 50px;
+  padding: 12px 50px 12px 50px;
   user-select: none;
   cursor: pointer;
   position: relative;
+  text-align: justify;
 }
 
 ul li::before {
