@@ -71,6 +71,7 @@ ul li {
   cursor: pointer;
   position: relative;
   text-align: justify;
+  border-top-style: solid;
 }
 
 ul li::before {
